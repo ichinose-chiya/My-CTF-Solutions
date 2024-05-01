@@ -57,6 +57,8 @@ unsigned __int64 get_flag()
 }
 ```
 
+## Solution
+
 At the same time, we can find out that the value of `f1` is `GXY{do_not_`, which is initialized on the `.data` segment as below:
 
 ```
